@@ -53,7 +53,4 @@
   * [9.2 Java8新特性之Stream](chapter9/9.2-java8-stream.md)
   * [9.3 Netty是什么？](chapter9/9.3-what-is-netty.md)
   * [9.4 使用Netty搭建Http服务](chapter9/9.4-use-netty-create-httpserver.md)
-* [附录](appendix/README.md)
-  * [jdk8](appendix/jdk8.md)
-  * [netty4](appendix/netty4.md)
 
