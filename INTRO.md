@@ -12,6 +12,38 @@
 
 在JavaWeb的生态圈里 [Blade](https://github.com/biezhi/blade) 算是一个微型框架，源码不到300KB，因此一旦你熟悉使用，不仅对web框架的实现原理理解更深入，也可以快速开发小型项目。Blade的核心是`IOC`对象托管和路由注册，以 `blade` 对象为一个应用的入口像 `express` 那样使用起来非常方便。
 
+## Blade架构
+
+## 概念
+
+Blade 从 Rails 和 Express 中吸收了许多成熟的设计思想, 许多相同的思想被用到了框架的设计中。
+
+Blade 通过简单的约定来支持 MVC 模式，让开发不在繁琐，告别笨重的J2EE。
+
+## MVC
+
+- 模型 描述基本的数据对象，特定的查询和更新逻辑。
+- 视图 一些模板，用于将数据呈现给用户。
+- 控制器 执行用户的请求，准备用户所需的数据，并指定模板进行渲染。
+
+## 整体设计
+
+<center>
+<img src="https://ooo.0o0.ooo/2016/09/07/57cf843566a9a.png" width="500" />
+</center>
+
+`blade` 是以 `blade-mvc`为核心的构建的，是一个高度解耦的框架。
+
+`blade` 设计之初就考虑了模块化使用，用独立的组件进行开发，部分组件不依赖 `blade`，例如：你可以使用 `blade-cache` 模块来做你的缓存逻辑；使用 `blade-jdbc` 模块来操作数据库。
+
+## 执行逻辑
+
+既然是基于 `blade-mvc` 构建的，那么他的执行逻辑是怎么样的呢？`blade`是一个典型的MVC架构，他的执行逻辑如下图所示：
+
+<center>
+<img src="https://ooo.0o0.ooo/2017/06/10/593acbb73635d.png" alt="blade执行逻辑" width="400" />
+</center>
+
 ## Blade特性
 
 - 良好的文档
