@@ -11,7 +11,7 @@
   * [2.2 注册路由](chapter2/2.2-register-route.md)
   * [2.3 启动服务](chapter2/2.3-start-server.md)
   * [2.4 静态资源](chapter2/2.4-static-resource.md)
-  * [2.5 完整的程序](chapter2/2.5-complete-program.md)
+  * [2.5 完整的程序](chapter2/2.5-complete-application.md)
 * [第3章 核心概念]
   * [3.1 请求](chapter3/3.1-request.md)
   * [3.2 响应](chapter3/3.2-response.md)
