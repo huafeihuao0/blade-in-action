@@ -1,4 +1,4 @@
-# Summary
+﻿# Summary
 
 * [内容摘要](README.md)
 * [Blade简介](INTRO.md)
@@ -13,8 +13,8 @@
   * [2.4 静态资源](chapter2/2.4-static-resource.md)
   * [2.5 完整的程序](chapter2/2.5-complete-program.md)
 * [第3章 核心概念]
-  * [3.2 请求](chapter3/3.1-request.md)
-  * [3.3 响应](chapter3/3.2-response.md)
+  * [3.1 请求](chapter3/3.1-request.md)
+  * [3.2 响应](chapter3/3.2-response.md)
   * [3.3 IOC](chapter3/3.3-ioc.md)
   * [3.4 中间件](chapter3/3.4-middlewares.md)
   * [3.5 钩子](chapter3/3.5-webhook.md)
