@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5eef41ba-c16d-40b2-bb9f-a8bef22a31fc" name="Default" comment="" />
+    <list default="true" id="5eef41ba-c16d-40b2-bb9f-a8bef22a31fc" name="Default" comment="update template">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5/section5.1.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5/section5.2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter9/9.1-java8-lambda.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter9/9.2-java8-stream.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter9/9.3-what-is-netty.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter9/9.4-use-netty-create-httpserver.md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter5/5.1-accept-form-request.md" afterPath="$PROJECT_DIR$/chapter5/5.1-sql-database.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter5/5.2-renderjson.md" afterPath="$PROJECT_DIR$/chapter5/5.2-nosql.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter5/5.3-render-html.md" afterPath="$PROJECT_DIR$/chapter5/5.3-database-opt.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter5/5.4-csrf-token.md" afterPath="$PROJECT_DIR$/chapter5/5.4-code-generator.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter6/6.1-sql-database.md" afterPath="$PROJECT_DIR$/chapter6/6.1-package.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter6/6.2-nosql.md" afterPath="$PROJECT_DIR$/chapter6/6.2-deploy-to-server.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter6/6.3-database-opt.md" afterPath="$PROJECT_DIR$/chapter7/7.1-optimize.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter6/6.4-code-generator.md" afterPath="$PROJECT_DIR$/chapter7/7.1-package-deploy.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter7/7.1-package.md" afterPath="$PROJECT_DIR$/chapter7/7.1-project-plan.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter7/7.2-deploy-to-server.md" afterPath="$PROJECT_DIR$/chapter7/7.1-update-delete.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.1-optimize.md" afterPath="$PROJECT_DIR$/chapter7/7.2-create-project.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.1-package-deploy.md" afterPath="$PROJECT_DIR$/chapter7/7.3-front-plan.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.1-project-plan.md" afterPath="$PROJECT_DIR$/chapter7/7.4-user-auth.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.1-update-delete.md" afterPath="$PROJECT_DIR$/chapter7/7.5-save-photo-feed.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.2-create-project.md" afterPath="$PROJECT_DIR$/chapter7/7.6-show-photo-feed.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.3-front-plan.md" afterPath="$PROJECT_DIR$/chapter8/8.1-java8-lambda.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.4-user-auth.md" afterPath="$PROJECT_DIR$/chapter8/8.2-java8-stream.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.5-save-photo-feed.md" afterPath="$PROJECT_DIR$/chapter8/8.3-what-is-netty.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.6-show-photo-feed.md" afterPath="$PROJECT_DIR$/chapter8/8.4-use-netty-create-httpserver.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SUMMARY.md" afterPath="$PROJECT_DIR$/SUMMARY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter4/4.2-jetbrick.md" afterPath="$PROJECT_DIR$/chapter4/4.2-jetbrick.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter4/4.5-custom-error-page.md" afterPath="$PROJECT_DIR$/chapter4/4.5-custom-error-page.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,7 +46,23 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="342">
+                <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="14" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,6 +73,14 @@
         <option value="$PROJECT_DIR$/chapter3/3.6-config.md" />
         <option value="$PROJECT_DIR$/chapter4/4.1-default-tempalte.md" />
         <option value="$PROJECT_DIR$/chapter4/4.2-jetbrick.md" />
+        <option value="$PROJECT_DIR$/chapter4/4.5-custom-error-page.md" />
+        <option value="$PROJECT_DIR$/chapter5/5.1-accept-form-request.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/chapter5/6.1-sql-database.md" />
+        <option value="$PROJECT_DIR$/chapter5/5.1-sql-database.md" />
+        <option value="$PROJECT_DIR$/chapter5/5.2-nosql.md" />
+        <option value="$PROJECT_DIR$/chapter5/5.3-database-opt.md" />
       </list>
     </option>
   </component>
@@ -55,8 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -69,8 +123,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blade-in-action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blade-in-action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blade-in-action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blade-in-action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,6 +269,7 @@
       <workItem from="1500450755592" duration="103000" />
       <workItem from="1500450869441" duration="182000" />
       <workItem from="1500451064169" duration="2007000" />
+      <workItem from="1500862296889" duration="6497000" />
     </task>
     <task id="LOCAL-00001" summary="update config">
       <created>1500452142164</created>
@@ -204,14 +289,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2926000" />
+    <option name="totallyTimeSpent" value="9423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="25" width="1343" height="766" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -247,19 +333,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/chapter3/3.6-config.md" />
-    <entry file="file://$PROJECT_DIR$/chapter3/3.6-config.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter4/4.1-default-tempalte.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -273,11 +346,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4/4.2-jetbrick.md">
+    <entry file="file://$PROJECT_DIR$/chapter3/3.5-webhook.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="595">
-            <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor>
@@ -286,11 +359,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+    <entry file="file://$PROJECT_DIR$/chapter4/4.2-jetbrick.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <first_editor relative-caret-position="555">
+            <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/4.3-velocity.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/4.5-custom-error-page.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/3.6-config.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/5.1-accept-form-request.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor>
@@ -302,8 +427,86 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/3.1-request.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/4.4-other.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/5.1-sql-database.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="425">
+            <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/5.2-nosql.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/5.3-database-opt.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2245">
+            <caret line="225" column="66" lean-forward="true" selection-start-line="225" selection-start-column="66" selection-end-line="225" selection-end-column="66" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor>
