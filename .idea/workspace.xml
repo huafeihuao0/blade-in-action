@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5eef41ba-c16d-40b2-bb9f-a8bef22a31fc" name="Default" comment="update template">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5/section5.1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5/section5.2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter9/9.1-java8-lambda.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter9/9.2-java8-stream.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter9/9.3-what-is-netty.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter9/9.4-use-netty-create-httpserver.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter5/5.1-accept-form-request.md" afterPath="$PROJECT_DIR$/chapter5/5.1-sql-database.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter5/5.2-renderjson.md" afterPath="$PROJECT_DIR$/chapter5/5.2-nosql.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter5/5.3-render-html.md" afterPath="$PROJECT_DIR$/chapter5/5.3-database-opt.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter5/5.4-csrf-token.md" afterPath="$PROJECT_DIR$/chapter5/5.4-code-generator.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter6/6.1-sql-database.md" afterPath="$PROJECT_DIR$/chapter6/6.1-package.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter6/6.2-nosql.md" afterPath="$PROJECT_DIR$/chapter6/6.2-deploy-to-server.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter6/6.3-database-opt.md" afterPath="$PROJECT_DIR$/chapter7/7.1-optimize.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter6/6.4-code-generator.md" afterPath="$PROJECT_DIR$/chapter7/7.1-package-deploy.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter7/7.1-package.md" afterPath="$PROJECT_DIR$/chapter7/7.1-project-plan.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter7/7.2-deploy-to-server.md" afterPath="$PROJECT_DIR$/chapter7/7.1-update-delete.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.1-optimize.md" afterPath="$PROJECT_DIR$/chapter7/7.2-create-project.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.1-package-deploy.md" afterPath="$PROJECT_DIR$/chapter7/7.3-front-plan.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.1-project-plan.md" afterPath="$PROJECT_DIR$/chapter7/7.4-user-auth.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.1-update-delete.md" afterPath="$PROJECT_DIR$/chapter7/7.5-save-photo-feed.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.2-create-project.md" afterPath="$PROJECT_DIR$/chapter7/7.6-show-photo-feed.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.3-front-plan.md" afterPath="$PROJECT_DIR$/chapter8/8.1-java8-lambda.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.4-user-auth.md" afterPath="$PROJECT_DIR$/chapter8/8.2-java8-stream.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.5-save-photo-feed.md" afterPath="$PROJECT_DIR$/chapter8/8.3-what-is-netty.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter8/8.6-show-photo-feed.md" afterPath="$PROJECT_DIR$/chapter8/8.4-use-netty-create-httpserver.md" />
+    <list default="true" id="5eef41ba-c16d-40b2-bb9f-a8bef22a31fc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SUMMARY.md" afterPath="$PROJECT_DIR$/SUMMARY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter4/4.2-jetbrick.md" afterPath="$PROJECT_DIR$/chapter4/4.2-jetbrick.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter4/4.5-custom-error-page.md" afterPath="$PROJECT_DIR$/chapter4/4.5-custom-error-page.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter5/5.3-database-opt.md" afterPath="$PROJECT_DIR$/chapter5/5.3-database-opt.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,12 +18,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <file leaf-file-name="5.3-database-opt.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter5/5.3-database-opt.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="342">
-                <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="14" />
+              <first_editor relative-caret-position="119">
+                <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -269,7 +240,7 @@
       <workItem from="1500450755592" duration="103000" />
       <workItem from="1500450869441" duration="182000" />
       <workItem from="1500451064169" duration="2007000" />
-      <workItem from="1500862296889" duration="6497000" />
+      <workItem from="1500862296889" duration="6866000" />
     </task>
     <task id="LOCAL-00001" summary="update config">
       <created>1500452142164</created>
@@ -285,11 +256,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500454421839</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add database">
+      <created>1500974174831</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1500974174831</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9423000" />
+    <option name="totallyTimeSpent" value="9792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="25" width="1343" height="766" extended-state="0" />
@@ -325,7 +303,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update config" />
     <MESSAGE value="update template" />
-    <option name="LAST_COMMIT_MESSAGE" value="update template" />
+    <MESSAGE value="add database" />
+    <option name="LAST_COMMIT_MESSAGE" value="add database" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -489,11 +468,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5/5.3-database-opt.md">
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2245">
-            <caret line="225" column="66" lean-forward="true" selection-start-line="225" selection-start-column="66" selection-end-line="225" selection-end-column="66" />
+          <first_editor relative-caret-position="425">
+            <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor>
@@ -502,11 +481,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+    <entry file="file://$PROJECT_DIR$/chapter5/5.3-database-opt.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="14" />
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             <folding />
           </first_editor>
           <second_editor>
