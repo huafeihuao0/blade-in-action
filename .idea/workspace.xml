@@ -22,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="524">
-                <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <first_editor relative-caret-position="133">
+                <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -34,6 +34,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace>6/6</replace>
+      <replace>7/7</replace>
+      <replace>8/8</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -242,7 +249,7 @@
       <workItem from="1500450869441" duration="182000" />
       <workItem from="1500451064169" duration="2007000" />
       <workItem from="1500862296889" duration="7285000" />
-      <workItem from="1501037763486" duration="112000" />
+      <workItem from="1501037763486" duration="182000" />
     </task>
     <task id="LOCAL-00001" summary="update config">
       <created>1500452142164</created>
@@ -272,11 +279,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500974825679</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update summary">
+      <created>1501037927156</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1501037927156</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10323000" />
+    <option name="totallyTimeSpent" value="10393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="25" width="1336" height="769" extended-state="0" />
@@ -474,8 +488,8 @@
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="524">
-            <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <first_editor relative-caret-position="133">
+            <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
             <folding />
           </first_editor>
           <second_editor>
