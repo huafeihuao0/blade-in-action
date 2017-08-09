@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5eef41ba-c16d-40b2-bb9f-a8bef22a31fc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter5/5.4-code-generator.md" afterPath="$PROJECT_DIR$/chapter5/5.4-code-generator.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter6/6.1-package.md" afterPath="$PROJECT_DIR$/chapter6/6.1-package.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter6/6.2-deploy-to-server.md" afterPath="$PROJECT_DIR$/chapter6/6.2-deploy-to-server.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,12 +18,27 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="458">
-                <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="13" />
+              <first_editor relative-caret-position="338">
+                <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="15" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6.2-deploy-to-server.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter6/6.2-deploy-to-server.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="592">
+                <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -65,6 +79,7 @@
         <option value="$PROJECT_DIR$/chapter1/1.1-create-blade-application.md" />
         <option value="$PROJECT_DIR$/chapter5/5.4-code-generator.md" />
         <option value="$PROJECT_DIR$/chapter6/6.1-package.md" />
+        <option value="$PROJECT_DIR$/chapter6/6.2-deploy-to-server.md" />
       </list>
     </option>
   </component>
@@ -278,7 +293,7 @@
       <workItem from="1502073897797" duration="1000" />
       <workItem from="1502088693073" duration="1144000" />
       <workItem from="1502091734006" duration="33000" />
-      <workItem from="1502249514233" duration="902000" />
+      <workItem from="1502249514233" duration="2010000" />
     </task>
     <task id="LOCAL-00001" summary="update config">
       <created>1500452142164</created>
@@ -357,16 +372,24 @@
       <option name="project" value="LOCAL" />
       <updated>1502091759038</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add code gen and package">
+      <created>1502250427150</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1502250427150</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14750000" />
+    <option name="totallyTimeSpent" value="15858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="25" width="1336" height="769" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25095057" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25095057" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -401,7 +424,8 @@
     <MESSAGE value="update blade version" />
     <MESSAGE value="add log conifg" />
     <MESSAGE value="upgrade blade version" />
-    <option name="LAST_COMMIT_MESSAGE" value="upgrade blade version" />
+    <MESSAGE value="add code gen and package" />
+    <option name="LAST_COMMIT_MESSAGE" value="add code gen and package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -646,8 +670,21 @@
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="458">
-            <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="13" />
+          <first_editor relative-caret-position="338">
+            <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/6.2-deploy-to-server.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="592">
+            <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
