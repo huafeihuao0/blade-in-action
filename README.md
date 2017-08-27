@@ -10,6 +10,11 @@
 
 本书适合熟悉Java语言，或对web开发感兴趣的开发者学习参考。
 
+## 视频教程
+
+- [Youtube](https://www.youtube.com/watch?v=UQzz1XCFE9U&list=PLK2w-tGRdrj5TV2lxHFj8hcg4mbmRmnWX)
+- [腾讯视频](http://v.qq.com/vplus/56171fe5fc0541ba6f356522325b0902/foldervideos/w6g0008012ruo91)
+
 ## 作者简介
 
 大家好，我在网络的id是 `王爵nice`，Java开发者，追求编码艺术，我写了一些软件都放在了github：https://github.com/biezhi
