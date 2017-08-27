@@ -17,7 +17,7 @@
 
 ## 作者简介
 
-大家好，我在网络的id是 `王爵nice`，Java开发者，追求编码艺术，我写了一些软件都放在了github：https://github.com/biezhi
-我的个人博客是: http://biezhi.me
+大家好，我在网络的id是 `王爵nice`，一个快乐的后端工程师，追求编码艺术，我写了一些软件都放在了github：https://github.com/biezhi
+我的个人博客是: http://biezhi.me ，[知乎账号](https://www.zhihu.com/people/biezhi)
 
 在本书中你将学习到如何使用BladeMVC框架快速开发应用和我的一些个人总结。
