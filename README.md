@@ -12,7 +12,7 @@
 
 ## 视频教程
 
-- [Youtube](https://www.youtube.com/watch?v=UQzz1XCFE9U&list=PLK2w-tGRdrj5TV2lxHFj8hcg4mbmRmnWX)
+- [Youtube](https://www.youtube.com/playlist?list=PLK2w-tGRdrj5TV2lxHFj8hcg4mbmRmnWX)
 - [腾讯视频](http://v.qq.com/vplus/56171fe5fc0541ba6f356522325b0902/foldervideos/w6g0008012ruo91)
 
 ## 作者简介
