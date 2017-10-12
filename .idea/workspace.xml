@@ -21,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/chapter1/1.1-create-blade-application.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="918">
-                <caret line="66" column="6" lean-forward="true" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+              <first_editor relative-caret-position="1258">
+                <caret line="74" column="17" lean-forward="true" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -110,8 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,6 +126,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,7 +261,8 @@
       <workItem from="1505488384193" duration="157000" />
       <workItem from="1505557395123" duration="108000" />
       <workItem from="1506088554530" duration="622000" />
-      <workItem from="1507780383913" duration="27000" />
+      <workItem from="1507780383913" duration="53000" />
+      <workItem from="1507780553077" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="update config">
       <created>1500452142164</created>
@@ -424,11 +425,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506088601663</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="update blade-mvc version">
+      <created>1507780415102</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1507780415102</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19362000" />
+    <option name="totallyTimeSpent" value="19405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="25" width="1336" height="769" extended-state="0" />
@@ -838,8 +846,8 @@
     <entry file="file://$PROJECT_DIR$/chapter1/1.1-create-blade-application.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="918">
-            <caret line="66" column="6" lean-forward="true" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+          <first_editor relative-caret-position="1258">
+            <caret line="74" column="17" lean-forward="true" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
             <folding />
           </first_editor>
           <second_editor>
