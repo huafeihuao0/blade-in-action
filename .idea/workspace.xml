@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5eef41ba-c16d-40b2-bb9f-a8bef22a31fc" name="Default" comment="update blade-mvc version">
+    <list default="true" id="5eef41ba-c16d-40b2-bb9f-a8bef22a31fc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/1.1-create-blade-application.md" afterPath="$PROJECT_DIR$/chapter1/1.1-create-blade-application.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/1.2-run-hello-world.md" afterPath="$PROJECT_DIR$/chapter1/1.2-run-hello-world.md" />
@@ -18,12 +18,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="1.1-create-blade-application.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter1/1.1-create-blade-application.md">
+      <file leaf-file-name="1.2-run-hello-world.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter1/1.2-run-hello-world.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="249">
-                <caret line="71" column="13" lean-forward="true" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="232">
+                <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -33,12 +33,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.2-run-hello-world.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter1/1.2-run-hello-world.md">
+      <file leaf-file-name="1.1-create-blade-application.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter1/1.1-create-blade-application.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="183">
-                <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="163">
+                <caret line="64" column="16" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -87,8 +87,8 @@
         <option value="$PROJECT_DIR$/chapter3/3.1-request.md" />
         <option value="$PROJECT_DIR$/chapter2/2.5-complete-application.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/chapter1/1.1-create-blade-application.md" />
         <option value="$PROJECT_DIR$/chapter1/1.2-run-hello-world.md" />
+        <option value="$PROJECT_DIR$/chapter1/1.1-create-blade-application.md" />
       </list>
     </option>
   </component>
@@ -126,6 +126,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,12 +140,20 @@
               <item name="blade-in-action" type="462c0819:PsiDirectoryNode" />
               <item name="chapter1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blade-in-action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blade-in-action" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blade-in-action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blade-in-action" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,7 +288,11 @@
       <workItem from="1505557395123" duration="108000" />
       <workItem from="1506088554530" duration="622000" />
       <workItem from="1507780383913" duration="53000" />
-      <workItem from="1507780553077" duration="261000" />
+      <workItem from="1507780553077" duration="688000" />
+      <workItem from="1507881278645" duration="227000" />
+      <workItem from="1507966427350" duration="13000" />
+      <workItem from="1507973581140" duration="735000" />
+      <workItem from="1508150348851" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="update config">
       <created>1500452142164</created>
@@ -455,11 +469,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507780572727</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="update blade-mvc version">
+      <created>1507791853321</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1507791853321</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19649000" />
+    <option name="totallyTimeSpent" value="21074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="25" width="1336" height="769" extended-state="0" />
@@ -828,23 +849,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/2.1-initialize.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="62">
-            <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter1/1.3-mvc-web-architecture.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="765">
-            <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -853,11 +862,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/1.1-create-blade-application.md">
+    <entry file="file://$PROJECT_DIR$/chapter2/2.1-initialize.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="249">
-            <caret line="71" column="13" lean-forward="true" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="493">
+            <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor>
@@ -869,8 +878,21 @@
     <entry file="file://$PROJECT_DIR$/chapter1/1.2-run-hello-world.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="183">
-            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <first_editor relative-caret-position="232">
+            <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/1.1-create-blade-application.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="163">
+            <caret line="64" column="16" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor>
